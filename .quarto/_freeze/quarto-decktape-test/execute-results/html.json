@@ -1,9 +1,11 @@
 {
-  "hash": "f0bce9c056018768ebec1bed48ca70d7",
+  "hash": "0f6cb4fa6ececd31a90bfbbea99d4be4",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"quarto-decktape-test\"\nformat: revealjs\n---\n\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n## Another Slide\n\nSome more stuff\n\n## The last slide\n\n::: incremental\n-   jdflkjawf\n-   lkdjf\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"quarto-decktape-test\"\nformat: letterbox-revealjs\n---\n\n\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n\n\n## Another Slide\n\nSome more stuff\n\n## The last slide\n\n::: incremental\n-   jdflkjawf\n-   lkdjf\n:::\n",
+    "supporting": [
+      "quarto-decktape-test_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
