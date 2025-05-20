@@ -1,8 +1,8 @@
 ---
 title: "quarto-decktape-test"
 format:
-  revealjs:
-    theme: [default, _extensions/EmilHvitfeldt/letterbox/letterbox.scss]
+  letterbox-light-revealjs:
+    include-after-body: _extensions/cynthiahqy/letterbox-light/theme.html
 ---
 
 ## Quarto
