@@ -1,6 +1,6 @@
 ---
 title: "quarto-decktape-test"
-format: letterbox-revealjs
+format: revealjs
 ---
 
 ## Quarto

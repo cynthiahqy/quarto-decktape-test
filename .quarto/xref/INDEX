@@ -1,5 +1,14 @@
 {
   "quarto-decktape-test.qmd": {
     "quarto-decktape-test.html": "72e75beb"
+  },
+  "quarto-revealjs.qmd": {
+    "quarto-revealjs.html": "453dd608"
+  },
+  "quarto-letterbox.qmd": {
+    "quarto-letterbox.html": "a6020a01"
+  },
+  "quarto-revealjs-default.qmd": {
+    "quarto-revealjs-default.html": "4b1b8f12"
   }
 }
