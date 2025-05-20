@@ -10,5 +10,8 @@
   },
   "quarto-revealjs-default.qmd": {
     "quarto-revealjs-default.html": "4b1b8f12"
+  },
+  "quarto-letterbox-light.qmd": {
+    "quarto-letterbox-light.html": "22322b1b"
   }
 }
